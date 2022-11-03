@@ -1,0 +1,75 @@
+body {
+  background-color: LightBlue;
+  font-family: "Helvetica", sans-serif;
+  color: DarkBlue;
+}
+ h1 {
+  color: red;
+  font-family: "Times New Roman", serif;
+}
+nav ul {
+    background-color: tomato;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul {
+  background-color: tomato;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: PapayaWhip;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
